@@ -1,3 +1,6 @@
 [submodule "DeepMapping-L"]
 	path = DeepMapping-L
 	url = https://github.com/asu-cactus/DeepMapping.git
+[submodule "DeepMapping-R"]
+	path = DeepMapping-R
+	url = https://github.com/asu-cactus/DeepMappingAQP.git
